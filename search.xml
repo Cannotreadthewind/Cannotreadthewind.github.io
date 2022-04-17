@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>Bootstrap学习笔记</title>
+      <link href="/2022/04/17/Bootstrap%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+      <url>/2022/04/17/Bootstrap%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Bootstrap学习笔记"><a href="#Bootstrap学习笔记" class="headerlink" title="Bootstrap学习笔记"></a>Bootstrap学习笔记</h1><h2 id="栅格系统"><a href="#栅格系统" class="headerlink" title="栅格系统"></a>栅格系统</h2><p>一行数据必须包含在.container(固定宽度中)，通过“行(row)”在水平方向创建一组“列(col)”。</p><h3 id="基本用法"><a href="#基本用法" class="headerlink" title="基本用法"></a>基本用法</h3><p>容器(container)包含行(row)，行(row)包含列(col)<br><br>列(col)不得超过12，超过则自动换行。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>再见，汜水街</title>
       <link href="/2022/03/21/%E5%86%8D%E8%A7%81%EF%BC%8C%E6%B1%9C%E6%B0%B4%E8%A1%97/"/>
       <url>/2022/03/21/%E5%86%8D%E8%A7%81%EF%BC%8C%E6%B1%9C%E6%B0%B4%E8%A1%97/</url>
